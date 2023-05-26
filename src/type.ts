@@ -8,4 +8,3 @@ export interface GlobalStateMapping {
     currentState: string;
     [index: string]: any;
 }
-sdf
