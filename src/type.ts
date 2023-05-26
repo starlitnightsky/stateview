@@ -1,6 +1,6 @@
 export interface IState {
     show: Function;
-    component: any;
+    component: any;asdfsadf
     [index: string]: any;
 }
 asdfsadfasdgeasdfasdgsdaasdf
