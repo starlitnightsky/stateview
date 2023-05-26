@@ -4,7 +4,3 @@ export interface IState {
     [index: string]: any;
 }
 
-export interface GlobalStateMapping {
-    currentState: string;
-    [index: string]: any;
-}
