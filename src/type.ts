@@ -3,8 +3,4 @@ export interface IState {
     component: any;
     [index: string]: any;
 }
-
-export interface GlobalStateMapping {
-    currentState: string;
-    [index: string]: any;
-}
+s
