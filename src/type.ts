@@ -3,4 +3,3 @@ export interface IState {
     component: any;asdfsadf
     [index: string]: any;
 }
-asdfsadfasdgeasdfasdgsdaasdfasdfasdfasdfasdfasdfsdfadsfsasdfasdfasdfasdfadsfasdfasd
